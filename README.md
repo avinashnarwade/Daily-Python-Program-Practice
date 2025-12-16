@@ -1,2 +1,2 @@
 # Daily-Python-Program-Practice
-This for daily program practice repository to polish  my in hand skill   
+This is for daily program practice repository to polishing  my in hand skill   
